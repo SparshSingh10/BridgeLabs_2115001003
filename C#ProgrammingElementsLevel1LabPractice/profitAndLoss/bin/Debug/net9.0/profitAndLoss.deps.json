@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "profitAndLoss/1.0.0": {
+        "runtime": {
+          "profitAndLoss.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "profitAndLoss/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

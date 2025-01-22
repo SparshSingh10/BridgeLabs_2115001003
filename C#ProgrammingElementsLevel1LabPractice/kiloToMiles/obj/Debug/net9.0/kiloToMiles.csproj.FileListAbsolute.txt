@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel1LabPractice\kiloToMiles\bin\Debug\net9.0\kiloToMiles.exe
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel1LabPractice\kiloToMiles\bin\Debug\net9.0\kiloToMiles.deps.json
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel1LabPractice\kiloToMiles\bin\Debug\net9.0\kiloToMiles.runtimeconfig.json
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel1LabPractice\kiloToMiles\bin\Debug\net9.0\kiloToMiles.dll
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel1LabPractice\kiloToMiles\bin\Debug\net9.0\kiloToMiles.pdb
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel1LabPractice\kiloToMiles\obj\Debug\net9.0\kiloToMiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel1LabPractice\kiloToMiles\obj\Debug\net9.0\kiloToMiles.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel1LabPractice\kiloToMiles\obj\Debug\net9.0\kiloToMiles.AssemblyInfo.cs
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel1LabPractice\kiloToMiles\obj\Debug\net9.0\kiloToMiles.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel1LabPractice\kiloToMiles\obj\Debug\net9.0\kiloToMiles.sourcelink.json
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel1LabPractice\kiloToMiles\obj\Debug\net9.0\kiloToMiles.dll
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel1LabPractice\kiloToMiles\obj\Debug\net9.0\refint\kiloToMiles.dll
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel1LabPractice\kiloToMiles\obj\Debug\net9.0\kiloToMiles.pdb
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel1LabPractice\kiloToMiles\obj\Debug\net9.0\kiloToMiles.genruntimeconfig.cache
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel1LabPractice\kiloToMiles\obj\Debug\net9.0\ref\kiloToMiles.dll

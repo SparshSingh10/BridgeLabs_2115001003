@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel1LabPractice\profitAndLoss\obj\Debug\net9.0\profitAndLoss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel1LabPractice\profitAndLoss\obj\Debug\net9.0\profitAndLoss.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel1LabPractice\profitAndLoss\obj\Debug\net9.0\profitAndLoss.AssemblyInfo.cs
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel1LabPractice\profitAndLoss\obj\Debug\net9.0\profitAndLoss.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel1LabPractice\profitAndLoss\obj\Debug\net9.0\profitAndLoss.sourcelink.json
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel1LabPractice\profitAndLoss\bin\Debug\net9.0\profitAndLoss.exe
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel1LabPractice\profitAndLoss\bin\Debug\net9.0\profitAndLoss.deps.json
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel1LabPractice\profitAndLoss\bin\Debug\net9.0\profitAndLoss.runtimeconfig.json
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel1LabPractice\profitAndLoss\bin\Debug\net9.0\profitAndLoss.dll
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel1LabPractice\profitAndLoss\bin\Debug\net9.0\profitAndLoss.pdb
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel1LabPractice\profitAndLoss\obj\Debug\net9.0\profitAndLoss.dll
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel1LabPractice\profitAndLoss\obj\Debug\net9.0\refint\profitAndLoss.dll
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel1LabPractice\profitAndLoss\obj\Debug\net9.0\profitAndLoss.pdb
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel1LabPractice\profitAndLoss\obj\Debug\net9.0\profitAndLoss.genruntimeconfig.cache
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel1LabPractice\profitAndLoss\obj\Debug\net9.0\ref\profitAndLoss.dll
