@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel2LabPractice\SI\bin\Debug\net9.0\SI.exe
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel2LabPractice\SI\bin\Debug\net9.0\SI.deps.json
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel2LabPractice\SI\bin\Debug\net9.0\SI.runtimeconfig.json
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel2LabPractice\SI\bin\Debug\net9.0\SI.dll
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel2LabPractice\SI\bin\Debug\net9.0\SI.pdb
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel2LabPractice\SI\obj\Debug\net9.0\SI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel2LabPractice\SI\obj\Debug\net9.0\SI.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel2LabPractice\SI\obj\Debug\net9.0\SI.AssemblyInfo.cs
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel2LabPractice\SI\obj\Debug\net9.0\SI.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel2LabPractice\SI\obj\Debug\net9.0\SI.sourcelink.json
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel2LabPractice\SI\obj\Debug\net9.0\SI.dll
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel2LabPractice\SI\obj\Debug\net9.0\refint\SI.dll
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel2LabPractice\SI\obj\Debug\net9.0\SI.pdb
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel2LabPractice\SI\obj\Debug\net9.0\SI.genruntimeconfig.cache
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel2LabPractice\SI\obj\Debug\net9.0\ref\SI.dll

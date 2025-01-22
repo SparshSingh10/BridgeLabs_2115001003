@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel1LabPractice\fee_Discount\obj\Debug\net9.0\fee_Discount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel1LabPractice\fee_Discount\obj\Debug\net9.0\fee_Discount.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel1LabPractice\fee_Discount\obj\Debug\net9.0\fee_Discount.AssemblyInfo.cs
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel1LabPractice\fee_Discount\obj\Debug\net9.0\fee_Discount.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel1LabPractice\fee_Discount\obj\Debug\net9.0\fee_Discount.sourcelink.json
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel1LabPractice\fee_Discount\bin\Debug\net9.0\fee_Discount.exe
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel1LabPractice\fee_Discount\bin\Debug\net9.0\fee_Discount.deps.json
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel1LabPractice\fee_Discount\bin\Debug\net9.0\fee_Discount.runtimeconfig.json
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel1LabPractice\fee_Discount\bin\Debug\net9.0\fee_Discount.dll
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel1LabPractice\fee_Discount\bin\Debug\net9.0\fee_Discount.pdb
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel1LabPractice\fee_Discount\obj\Debug\net9.0\fee_Discount.dll
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel1LabPractice\fee_Discount\obj\Debug\net9.0\refint\fee_Discount.dll
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel1LabPractice\fee_Discount\obj\Debug\net9.0\fee_Discount.pdb
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel1LabPractice\fee_Discount\obj\Debug\net9.0\fee_Discount.genruntimeconfig.cache
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel1LabPractice\fee_Discount\obj\Debug\net9.0\ref\fee_Discount.dll

@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel2LabPractice\triangularPark\bin\Debug\net9.0\triangularPark.exe
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel2LabPractice\triangularPark\bin\Debug\net9.0\triangularPark.deps.json
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel2LabPractice\triangularPark\bin\Debug\net9.0\triangularPark.runtimeconfig.json
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel2LabPractice\triangularPark\bin\Debug\net9.0\triangularPark.dll
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel2LabPractice\triangularPark\bin\Debug\net9.0\triangularPark.pdb
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel2LabPractice\triangularPark\obj\Debug\net9.0\triangularPark.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel2LabPractice\triangularPark\obj\Debug\net9.0\triangularPark.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel2LabPractice\triangularPark\obj\Debug\net9.0\triangularPark.AssemblyInfo.cs
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel2LabPractice\triangularPark\obj\Debug\net9.0\triangularPark.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel2LabPractice\triangularPark\obj\Debug\net9.0\triangularPark.sourcelink.json
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel2LabPractice\triangularPark\obj\Debug\net9.0\triangularPark.dll
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel2LabPractice\triangularPark\obj\Debug\net9.0\refint\triangularPark.dll
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel2LabPractice\triangularPark\obj\Debug\net9.0\triangularPark.pdb
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel2LabPractice\triangularPark\obj\Debug\net9.0\triangularPark.genruntimeconfig.cache
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel2LabPractice\triangularPark\obj\Debug\net9.0\ref\triangularPark.dll

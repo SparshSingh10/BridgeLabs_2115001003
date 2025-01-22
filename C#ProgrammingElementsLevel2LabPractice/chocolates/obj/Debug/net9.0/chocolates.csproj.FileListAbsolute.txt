@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel2LabPractice\chocolates\bin\Debug\net9.0\chocolates.exe
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel2LabPractice\chocolates\bin\Debug\net9.0\chocolates.deps.json
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel2LabPractice\chocolates\bin\Debug\net9.0\chocolates.runtimeconfig.json
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel2LabPractice\chocolates\bin\Debug\net9.0\chocolates.dll
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel2LabPractice\chocolates\bin\Debug\net9.0\chocolates.pdb
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel2LabPractice\chocolates\obj\Debug\net9.0\chocolates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel2LabPractice\chocolates\obj\Debug\net9.0\chocolates.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel2LabPractice\chocolates\obj\Debug\net9.0\chocolates.AssemblyInfo.cs
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel2LabPractice\chocolates\obj\Debug\net9.0\chocolates.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel2LabPractice\chocolates\obj\Debug\net9.0\chocolates.sourcelink.json
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel2LabPractice\chocolates\obj\Debug\net9.0\chocolates.dll
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel2LabPractice\chocolates\obj\Debug\net9.0\refint\chocolates.dll
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel2LabPractice\chocolates\obj\Debug\net9.0\chocolates.pdb
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel2LabPractice\chocolates\obj\Debug\net9.0\chocolates.genruntimeconfig.cache
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel2LabPractice\chocolates\obj\Debug\net9.0\ref\chocolates.dll

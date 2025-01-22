@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel2LabPractice\DoubleOpt\bin\Debug\net9.0\DoubleOpt.exe
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel2LabPractice\DoubleOpt\bin\Debug\net9.0\DoubleOpt.deps.json
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel2LabPractice\DoubleOpt\bin\Debug\net9.0\DoubleOpt.runtimeconfig.json
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel2LabPractice\DoubleOpt\bin\Debug\net9.0\DoubleOpt.dll
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel2LabPractice\DoubleOpt\bin\Debug\net9.0\DoubleOpt.pdb
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel2LabPractice\DoubleOpt\obj\Debug\net9.0\DoubleOpt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel2LabPractice\DoubleOpt\obj\Debug\net9.0\DoubleOpt.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel2LabPractice\DoubleOpt\obj\Debug\net9.0\DoubleOpt.AssemblyInfo.cs
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel2LabPractice\DoubleOpt\obj\Debug\net9.0\DoubleOpt.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel2LabPractice\DoubleOpt\obj\Debug\net9.0\DoubleOpt.sourcelink.json
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel2LabPractice\DoubleOpt\obj\Debug\net9.0\DoubleOpt.dll
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel2LabPractice\DoubleOpt\obj\Debug\net9.0\refint\DoubleOpt.dll
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel2LabPractice\DoubleOpt\obj\Debug\net9.0\DoubleOpt.pdb
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel2LabPractice\DoubleOpt\obj\Debug\net9.0\DoubleOpt.genruntimeconfig.cache
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel2LabPractice\DoubleOpt\obj\Debug\net9.0\ref\DoubleOpt.dll

@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel1LabPractice\calculator\bin\Debug\net9.0\calculator.exe
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel1LabPractice\calculator\bin\Debug\net9.0\calculator.deps.json
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel1LabPractice\calculator\bin\Debug\net9.0\calculator.runtimeconfig.json
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel1LabPractice\calculator\bin\Debug\net9.0\calculator.dll
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel1LabPractice\calculator\bin\Debug\net9.0\calculator.pdb
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel1LabPractice\calculator\obj\Debug\net9.0\calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel1LabPractice\calculator\obj\Debug\net9.0\calculator.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel1LabPractice\calculator\obj\Debug\net9.0\calculator.AssemblyInfo.cs
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel1LabPractice\calculator\obj\Debug\net9.0\calculator.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel1LabPractice\calculator\obj\Debug\net9.0\calculator.sourcelink.json
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel1LabPractice\calculator\obj\Debug\net9.0\calculator.dll
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel1LabPractice\calculator\obj\Debug\net9.0\refint\calculator.dll
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel1LabPractice\calculator\obj\Debug\net9.0\calculator.pdb
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel1LabPractice\calculator\obj\Debug\net9.0\calculator.genruntimeconfig.cache
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel1LabPractice\calculator\obj\Debug\net9.0\ref\calculator.dll

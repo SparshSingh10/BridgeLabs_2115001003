@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel2LabPractice\quotientandremainder\bin\Debug\net9.0\quotientandremainder.exe
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel2LabPractice\quotientandremainder\bin\Debug\net9.0\quotientandremainder.deps.json
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel2LabPractice\quotientandremainder\bin\Debug\net9.0\quotientandremainder.runtimeconfig.json
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel2LabPractice\quotientandremainder\bin\Debug\net9.0\quotientandremainder.dll
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel2LabPractice\quotientandremainder\bin\Debug\net9.0\quotientandremainder.pdb
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel2LabPractice\quotientandremainder\obj\Debug\net9.0\quotientandremainder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel2LabPractice\quotientandremainder\obj\Debug\net9.0\quotientandremainder.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel2LabPractice\quotientandremainder\obj\Debug\net9.0\quotientandremainder.AssemblyInfo.cs
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel2LabPractice\quotientandremainder\obj\Debug\net9.0\quotientandremainder.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel2LabPractice\quotientandremainder\obj\Debug\net9.0\quotientandremainder.sourcelink.json
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel2LabPractice\quotientandremainder\obj\Debug\net9.0\quotientandremainder.dll
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel2LabPractice\quotientandremainder\obj\Debug\net9.0\refint\quotientandremainder.dll
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel2LabPractice\quotientandremainder\obj\Debug\net9.0\quotientandremainder.pdb
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel2LabPractice\quotientandremainder\obj\Debug\net9.0\quotientandremainder.genruntimeconfig.cache
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel2LabPractice\quotientandremainder\obj\Debug\net9.0\ref\quotientandremainder.dll

@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel1LabPractice\kiloToMiles2\obj\Debug\net9.0\kiloToMiles2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel1LabPractice\kiloToMiles2\obj\Debug\net9.0\kiloToMiles2.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel1LabPractice\kiloToMiles2\obj\Debug\net9.0\kiloToMiles2.AssemblyInfo.cs
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel1LabPractice\kiloToMiles2\obj\Debug\net9.0\kiloToMiles2.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel1LabPractice\kiloToMiles2\obj\Debug\net9.0\kiloToMiles2.sourcelink.json
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel1LabPractice\kiloToMiles2\bin\Debug\net9.0\kiloToMiles2.exe
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel1LabPractice\kiloToMiles2\bin\Debug\net9.0\kiloToMiles2.deps.json
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel1LabPractice\kiloToMiles2\bin\Debug\net9.0\kiloToMiles2.runtimeconfig.json
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel1LabPractice\kiloToMiles2\bin\Debug\net9.0\kiloToMiles2.dll
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel1LabPractice\kiloToMiles2\bin\Debug\net9.0\kiloToMiles2.pdb
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel1LabPractice\kiloToMiles2\obj\Debug\net9.0\kiloToMiles2.dll
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel1LabPractice\kiloToMiles2\obj\Debug\net9.0\refint\kiloToMiles2.dll
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel1LabPractice\kiloToMiles2\obj\Debug\net9.0\kiloToMiles2.pdb
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel1LabPractice\kiloToMiles2\obj\Debug\net9.0\kiloToMiles2.genruntimeconfig.cache
+C:\Users\Asus\Desktop\BridgeLabs_2115001003\C#ProgrammingElementsLevel1LabPractice\kiloToMiles2\obj\Debug\net9.0\ref\kiloToMiles2.dll

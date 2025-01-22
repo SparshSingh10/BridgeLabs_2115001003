@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "TemperatureConversion2/1.0.0": {
+        "runtime": {
+          "TemperatureConversion2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TemperatureConversion2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
