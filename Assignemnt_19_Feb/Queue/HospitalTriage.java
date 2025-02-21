@@ -13,6 +13,7 @@ class Patient implements Comparable<Patient> {
         return name;
     }
 
+
     @Override
     public int compareTo(Patient other) {
         return Integer.compare(other.severity, this.severity);
